@@ -66,7 +66,7 @@ export default class Home extends Component {
                                         <option label="Kgs de Cocaina" >1232</option>
                                         <option label="lamborghinis">1231231231</option>
                                         <option label="Mansiones">1231242</option>
-                                        <option label="Tulas del pipe">1000</option>
+                                        <option label="Tulasdelpipe">1500</option>
                                     </select>
                                 </div>
 
